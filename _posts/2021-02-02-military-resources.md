@@ -11,10 +11,10 @@ render_with_liquid: false
 
 <br>
 
-### LinkIn Guide for Military
+### LinkedIn Guide for Military
 
 
-![LinkedIn Tips](../assets/img/posts/VetsInTech.PNG){: width="300" height="300"}
+![LinkedIn Tips](/assets/img/posts/VetsInTech.PNG){: width="300" height="300"}
 
 This article by [Micheal Quinn](https://www.linkedin.com/pulse/ultimate-linkedin-cheat-sheet-michael-quinn/), a former Sergeant Major now CEO of HireMilitary and Tenova LLC, provides detailed instructions tailored to veterans for updating their Linkedin profile.
 
