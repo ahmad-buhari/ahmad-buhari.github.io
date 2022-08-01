@@ -33,8 +33,7 @@ This article by [Micheal Quinn](https://www.linkedin.com/pulse/ultimate-linkedin
 
 ### Veteran Readiness and Employment (VR&E)
 
-![](/assets/img/posts/va.PNG){: w="600" h="400" }
-The VR&E program (federally funded) targets military members transitioning into the civilian sector. It covers a wide variety of benefits from education grants, resume coaching, and relocation assistance. Visit the website to find out more.
+![](/assets/img/posts/va.PNG){: w="600" h="400" } "The VR&E program (federally funded) targets military members transitioning into the civilian sector. It covers a wide variety of benefits from education grants, resume coaching, and relocation assistance. Visit the website to find out more".
 
 <br>
 
