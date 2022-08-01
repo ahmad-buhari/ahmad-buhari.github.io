@@ -10,7 +10,7 @@ render_with_liquid: false
 ## LinkedIn Resume tips for Military
 
 
-<img src="https://media-exp1.licdn.com/dms/image/D4E12AQECu2sB5uF9Dg/article-cover_image-shrink_720_1280/0/1657727772026?e=1665014400&v=beta&t=f6n4-fQNHxlIWXoxLDTszPfwdtN2_lMYlRXF69C7rh4" width="100%" height="300px"></img>
+<img src="https://media-exp1.licdn.com/dms/image/D4E12AQECu2sB5uF9Dg/article-cover_image-shrink_720_1280/0/1657727772026?e=1665014400&v=beta&t=f6n4-fQNHxlIWXoxLDTszPfwdtN2_lMYlRXF69C7rh4" width="300%" height="300px"></img>
 
 This article by [Micheal Quinn](https://www.linkedin.com/pulse/ultimate-linkedin-cheat-sheet-michael-quinn/), a former Sergeant Major now CEO of HireMilitary and Tenova LLC, provides detailed instructions tailored to veterans for updating their Linkedin profile.
 
