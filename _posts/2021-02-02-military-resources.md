@@ -14,7 +14,7 @@ render_with_liquid: false
 ### LinkedIn Guide for Military
 
 
-![LinkedIn Tips](/assets/img/posts/LinkedIn-Article.PNG){: w="600" h="400"}
+![LinkedIn Tips](/assets/img/posts/LinkedIn-Article.PNG){: w="600" h="400" }
 
 This article by [Micheal Quinn](https://www.linkedin.com/pulse/ultimate-linkedin-cheat-sheet-michael-quinn/), a former Sergeant Major now CEO of HireMilitary and Tenova LLC, provides detailed instructions tailored to veterans for updating their Linkedin profile.
 
@@ -25,7 +25,7 @@ This article by [Micheal Quinn](https://www.linkedin.com/pulse/ultimate-linkedin
 
 ### VetsInTech
 
-![](/assets/img/posts/VetsInTech.PNG){: w="600" h="400"}
+![](/assets/img/posts/VetsInTech.PNG){: w="600" h="400" .left }
 
 [VetsInTech](https://vetsintech.co/) is a nonprofit organization supporting veterans aspiring to work in the Information Technology field. Checkout their website for the latest course offering.
 
@@ -33,12 +33,12 @@ This article by [Micheal Quinn](https://www.linkedin.com/pulse/ultimate-linkedin
 
 ### Veteran Readiness and Employment (VR&E)
 
-![](/assets/img/posts/va.PNG){: w="600" h="400"}
+![](/assets/img/posts/va.PNG){: w="600" h="400" .left }
 The VR&E program (federally funded) targets military members transitioning into the civilian sector. It covers a wide variety of benefits from education grants, resume coaching, and relocation assistance. Visit the website to find out more.
 
 <br>
 
 
 ### Microsoft Software and Systems Academy
-![](/assets/img/posts/msft-mssa.PNG){: w="600" h="400"}
+![](/assets/img/posts/msft-mssa.PNG){: w="600" h="400" .left }
 Provides IT training resource for transitioning military members, Skillbridge opportunity.
