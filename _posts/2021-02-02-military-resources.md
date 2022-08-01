@@ -2,13 +2,12 @@
 title: Military Reources
 author: Ahmad Buhari
 date: 2021-02-02 14:10:00 +0800
-categories: [resources]
+categories: [veteran resources]
 tags: [resources]
 render_with_liquid: false
 ---
 
 ## Professional Networking
----
 
 <br>
 
@@ -23,7 +22,6 @@ This article by [Micheal Quinn](https://www.linkedin.com/pulse/ultimate-linkedin
 <br>
 
 ## Training Resources
----
 
 ### VetsInTech
 
