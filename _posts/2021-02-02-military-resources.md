@@ -5,6 +5,7 @@ date: 2021-02-02 14:10:00 +0800
 categories: [resources]
 tags: [resources]
 render_with_liquid: false
+img_path: /assets/img/posts
 ---
 
 ## Professional Networking
@@ -14,8 +15,8 @@ render_with_liquid: false
 ### LinkedIn Guide for Military
 
 
-![LinkedIn Tips](/assets/img/posts/VetsInTech.PNG){: w="600" h="400"}
-![LinkedIn Tips](./assets/img/posts/VetsInTech.PNG){: w="600" h="400"}
+![LinkedIn Tips](VetsInTech.PNG){: w="600" h="400"}
+
 ![LinkedIn Tips](../assets/img/posts/VetsInTech.PNG){: w="600" h="400"}
 
 This article by [Micheal Quinn](https://www.linkedin.com/pulse/ultimate-linkedin-cheat-sheet-michael-quinn/), a former Sergeant Major now CEO of HireMilitary and Tenova LLC, provides detailed instructions tailored to veterans for updating their Linkedin profile.
