@@ -1,8 +1,8 @@
 ---
-title: Military Reources
+title: Military Resources
 author: Ahmad Buhari
 date: 2021-02-02 14:10:00 +0800
-categories: [veteran resources]
+categories: [resources]
 tags: [resources]
 render_with_liquid: false
 ---
