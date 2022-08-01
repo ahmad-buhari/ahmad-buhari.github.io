@@ -8,6 +8,7 @@ render_with_liquid: false
 ---
 
 ## Professional Networking
+---
 
 <br>
 
@@ -22,6 +23,7 @@ This article by [Micheal Quinn](https://www.linkedin.com/pulse/ultimate-linkedin
 <br>
 
 ## Training Resources
+---
 
 ### VetsInTech
 
@@ -41,5 +43,6 @@ The VR&E program (federally funded) targets military members transitioning into 
 
 
 ### Microsoft Software and Systems Academy
-![](/assets/img/posts/msft-mssa.PNG){: w="600" h="400" }
+![](/assets/img/posts/msft-mssa.PNG){: w="600" h="400" .normal }
+<br>
 Provides IT training resource for transitioning military members, Skillbridge opportunity.
