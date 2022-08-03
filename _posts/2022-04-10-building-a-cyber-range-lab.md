@@ -29,3 +29,6 @@ There are multiple ways to download an operating systems. For Microsoft, navigat
 ### 3. Deploy the Virtual Machine
 Once the operating system is downloaded, deploy the virtual machine using the recommended system requirements.
 <iframe src="https://giphy.com/embed/QXHcA4D5Hthrx6ICGz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+![](/assets/img/posts/cyber-range.svg){: w="600" h="400" }
+_My Cyber Range Lab Setup_
