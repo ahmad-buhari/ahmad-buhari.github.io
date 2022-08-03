@@ -39,7 +39,6 @@ The VR&E program (federally funded) targets military members transitioning into 
 
 <br>
 
-
 ### Microsoft Software and Systems Academy
 ![](/assets/img/posts/msft-mssa.PNG){: w="600" h="400" .normal }
 <br>
