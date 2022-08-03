@@ -11,7 +11,7 @@ render_with_liquid: false
 ---
 For any inspiring professional wanting to break into the tech field, you have to learn and perform your craft quickly. 
 
-I've experinced over time the fastest way to learn is to get straight into the hands-on portion and combine the learning experience with visual aids like reading documentation and watching videos.
+I've learned over time the fastest way to upskill for a technical IT craft is going straight to the hands-on portion combined with visual aids like reading and watching videos. Doing these projects and documenting the process in GitHub or other websites helps showcase your skills.
 
 ### Environments
 - Compute Node
