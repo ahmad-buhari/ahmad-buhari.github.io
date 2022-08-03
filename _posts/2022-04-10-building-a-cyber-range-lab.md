@@ -30,5 +30,8 @@ There are multiple ways to download an operating systems. For Microsoft, navigat
 Once the operating system is downloaded, deploy the virtual machine using the recommended system requirements.
 <iframe src="https://giphy.com/embed/QXHcA4D5Hthrx6ICGz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
+
+### Example of a running Cyber Range Lab
+Below is the topology of my current lab, I always recommend writing down your network diagram. It's helps you troubleshoot issues and is a real-world skill for IT jobs. A quick plug to [diagrams.net/](https://www.diagrams.net/) for offering a solid open source diagram web tool.
 ![](/assets/img/posts/cyber-range.svg){: w="600" h="400" }
 _My Cyber Range Lab Setup_
