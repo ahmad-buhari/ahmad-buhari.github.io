@@ -19,3 +19,17 @@ first_name = Joe
 age = 26
 puts "Your name is #{first_name} and you are #{age} years old"
 ```
+<br>
+
+### Commenting
+Use the # sign, example `# This is a comment`
+
+<br>
+
+### Grabing user input
+Use the `get.chomp` statemement
+```
+puts "What is your name?"
+name = gets.chomp
+puts "Hello, #{name}!"  
+```
