@@ -1,3 +1,14 @@
+---
+title: Ruby Basics
+author: Ahmad Buhari
+date: 2022-08-04 14:10:00 +0800
+categories: [tutorials,ruby]
+tags: [ruby]
+render_with_liquid: false
+---
+
+A quick guide for ruby syntax. 
+
 ## Strings
 
 ### String Interpolation in ruby
