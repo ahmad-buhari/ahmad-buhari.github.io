@@ -1,4 +1,4 @@
----
+code 2022---
 title: Ruby Basics
 author: Ahmad Buhari
 date: 2022-08-04 14:10:00 +0800
