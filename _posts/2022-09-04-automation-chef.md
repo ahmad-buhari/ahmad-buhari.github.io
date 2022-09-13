@@ -18,7 +18,7 @@ Follow default prompts, and download from [https://www.vagrantup.com/downloads](
 - VirtualBox --> software hypervisor.<br>
 Follow default prompts, download from [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads) is a software-defined hypervisor for creating virtual machines. 
 
-<iframe src="https://giphy.com/embed/2knCiF52bpFiNWXcJ7" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2knCiF52bpFiNWXcJ7">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/2knCiF52bpFiNWXcJ7" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2knCiF52bpFiNWXcJ7"></a></p>
 
 ## Prepping the compute element
 
@@ -47,17 +47,25 @@ On a linux instance run `sudo /sbin/vboxconfig` from the command line an ensure 
 ## Testing VM Automation with Chef Zero
 
 ### 1. Create a Chef project folder 
-    - I recommend creating the subfolder within the same project directory for easy management/reference. It can get confusing as the build progress with new files and folders. Hence take the time to plan out the folder structure for the project.
-    ```bash
-    mkdir \home\userA\Desktop\chef_myproj
-
-    ```
+- I recommend creating the subfolder within the same project directory for easy management/reference. It can get confusing as the build progress with new files and folders. Hence take the time to plan out the folder structure for the project.
+```bash
+    mkdir /home/userA/Desktop/chef_myproj
+```
 
 ### 2. Initialize a Chef cookbook (a.k.a template)
-    - Navigate to the project folder and use `chef generate cookbook chef_myproj` 
-    - Tip chef_myproj is the subfolder where all the configuration files for Chef will be saved in.
+- Navigate to the project folder and use `chef generate cookbook`
+```bash
+cd /home/userA/Desktop/chef_myproj
+chef generate cookbook chef_myproj_cookbook
+```
+
+> Tip `chef_myproj_cookbook` is the subfolder where all the configuration files for Chef will be saved in.
+{: .prompt-warning }
+
 
 ### 3. Test build using kitchen cli
-    - Run `kitchen list` to test deployable vagrant vm instances.
+- Run `kitchen list` to test deployable vagrant vm instances.
 
-### Note: Code deployment for Ubuntu64, requires an internet connection to download the packages & it's dependencies.
+
+> Note: Code deployment for Ubuntu64, requires an internet connection to download the packages & it's dependencies.
+{: .prompt-info }
