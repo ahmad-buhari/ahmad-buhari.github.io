@@ -35,7 +35,7 @@ This article by [Micheal Quinn](https://www.linkedin.com/pulse/ultimate-linkedin
 
 ![](/assets/img/posts/va.PNG){: w="600" h="400" } 
 <br>
-The VR&E is a federally funded program to assist military members transitioning into the civilian sector. It covers various benefits from, education grants, resume coaching, and relocation assistance. Visit the website to find out more, [click here](https://www.benefits.va.gov/vocrehab/index.asp)
+The VR&E is a federally funded program to assist military members transitioning into the civilian sector. It covers various benefits from, education grants, resume coaching, and relocation assistance. Visit the website to find out more, [click here](https://www.benefits.va.gov/vocrehab/index.asp).
 
 <br>
 
