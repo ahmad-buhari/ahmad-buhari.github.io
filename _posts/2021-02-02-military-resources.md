@@ -35,11 +35,12 @@ This article by [Micheal Quinn](https://www.linkedin.com/pulse/ultimate-linkedin
 
 ![](/assets/img/posts/va.PNG){: w="600" h="400" } 
 <br>
-The VR&E program (federally funded) targets military members transitioning into the civilian sector. It covers a wide variety of benefits from education grants, resume coaching, and relocation assistance. Visit the website to find out more.
+The VR&E is a federally funded program to assist military members transitioning into the civilian sector. It covers various benefits from, education grants, resume coaching, and relocation assistance. Visit the website to find out more, [click here](https://www.benefits.va.gov/vocrehab/index.asp)
 
 <br>
 
 ### Microsoft Software and Systems Academy
 ![](/assets/img/posts/msft-mssa.PNG){: w="600" h="400" .normal }
 <br>
-Provides IT training resource for transitioning military members, Skillbridge opportunity.
+The MSSA program funded by Microsoft, provides IT-related training for transitioning military members as a 17-week Skillbridge cohort. The participants will also learn how to build their resume for the tech industry and have an opportunity to find employment with Microsoft and their business partners. For more information, [click here](https://military.microsoft.com/mssa/how-to-apply/).
+

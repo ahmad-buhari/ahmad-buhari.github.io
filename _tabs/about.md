@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
- Hey there, welcome to my page where I try to document things I've learn along the way. I'm a IT Manager for a Blue Team working in UK. 
+ Hi, welcome to my page where I document things I've learned in technology and collect. There's a limit to what can be remembered and writing it for my future self  I'm a IT Manager for a Blue Team working in UK. 
 
  
  Our responsibilities include applying system compliances using the Security Technical Implementation Guides (STIGs), patch CVE findings, conducting log analysis, and a bunch more cyber security stuff.
