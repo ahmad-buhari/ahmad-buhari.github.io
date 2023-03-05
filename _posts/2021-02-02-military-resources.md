@@ -8,7 +8,7 @@ render_with_liquid: false
 ---
 
 ## Professional Networking
-
+---
 <br>
 
 ### LinkedIn Guide for Military
@@ -34,8 +34,10 @@ American Corporate Partners is a free mentorship program. Veterans are paired wi
 
 Veteranti is another free mentorship platform. Veterans can choose their mentors depending on their experience and background. The mentorship session runs for 6 weeks. You can also volunteer as a mentor for transitioning military members. [https://www.veterati.com/](https://www.veterati.com/)
 
-## Training Resources
+<br>
 
+## Training Resources
+---
 <br>
 
 ### VetsInTech
