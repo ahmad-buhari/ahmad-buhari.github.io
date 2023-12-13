@@ -4,10 +4,9 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-Hi, welcome to my page where I document things I've learned in technology. I've been in the IT field since 2014 and I'm currently working as an IT Manager for a Blue Team in the UK.
+Hi, welcome to my page where I document things I've learned in technology. I've been in the tech field since 2014. I'm currently working as an IT Manager overseeing the data center and network operations team. Our responsibilities cover a vast number of core services. It ranges from share drive provisioning, deploying new servers, installing L2 network hardware, configuration management, and a bunch more.
 
-
-Our responsibilities include validating system compliances using the Security Technical Implementation Guides (STIGs), patch CVE findings, conducting log analysis, and a bunch more cyber security stuff.
+Some fun facts about me, I enjoy learning new topics in the IT field and tinkering with my home cyber range lab powered by a NUC Ghost Canyon. Lately, I've been playing with Microsoft's PowerPlatform suite to automate some of the data entry for our compliance analysis metrics. 
 
 
 ## Things I'm doing
