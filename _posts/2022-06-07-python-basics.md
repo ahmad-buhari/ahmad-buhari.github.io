@@ -1,6 +1,6 @@
 ---
 title: Learning Python
-author: ahmad
+author:
 date: 2022-06-01 14:10:00 +0800
 categories: [tutorial,python]
 tags: [python]

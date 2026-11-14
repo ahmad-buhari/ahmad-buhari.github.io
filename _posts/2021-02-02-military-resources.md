@@ -1,6 +1,6 @@
 ---
 title: Military Resources
-author: ahmad
+author:
 date: 2021-02-02 14:10:00 +0800
 categories: [resources]
 tags: [resources]

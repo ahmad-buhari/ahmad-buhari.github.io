@@ -1,6 +1,6 @@
 ---
 title: Automation with VirtualBox, Vagrant & Chef
-author: ahmad
+author:
 date: 2022-09-04 14:10:00 +0800
 categories: [tutorial]
 tags: [chef, vagrant]

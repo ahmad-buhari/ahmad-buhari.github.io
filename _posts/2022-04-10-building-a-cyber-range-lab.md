@@ -1,6 +1,6 @@
 ---
 title: Building a Cyber Range Lab
-author: ahmad
+author:
 date: 2022-04-10 14:10:00 +0800
 categories: [tutorial, cyber-range]
 tags: [labs]

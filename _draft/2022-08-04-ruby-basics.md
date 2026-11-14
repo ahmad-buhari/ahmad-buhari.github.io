@@ -1,6 +1,6 @@
 code 2022---
 title: Ruby Basics
-author: Ahmad Buhari
+author:
 date: 2022-08-04 14:10:00 +0800
 categories: [tutorials,ruby]
 tags: [ruby]
